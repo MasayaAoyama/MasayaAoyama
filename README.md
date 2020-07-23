@@ -1,11 +1,11 @@
 ### Masaya Aoyama
 
 * Twitter: [@amsy810](https://twitter.com/amsy810)
-* Site: [amsy.dev](https://amsy.dev)
+* amsy.dev
     * [Portfolio(JP)](https://amsy.dev/)
     * [Portfolio(EN)](https://amsy.dev/en)
     * [Resume(JP)](https://docs.google.com/document/d/12AcFL5lOXfK3mEq3RlOz5HYo6mwJwVgE34RC_JyCq3A/edit)
-    * [Resume(EN)](https://docs.google.com/document/d/12AcFL5lOXfK3mEq3RlOz5HYo6mwJwVgE34RC_JyCq3A/edit)
+    * [Resume(EN)](https://docs.google.com/document/d/1RKMq5ONQBWi5RDfo_FeSyvDlq3LgGLGG2piwYj0EnCY/edit)
 
 ![Masaya Aoyama github stats](https://github-readme-stats.vercel.app/api?username=MasayaAoyama&show_icons=true&hide_border=true)
 
